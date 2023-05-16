@@ -1,4 +1,4 @@
-<h1>Matija Gudić, React Front End Developer 💻</h1>
+<h1>Matija Gudić, React Front-End Developer 💻</h1>
 
 <p>
 Passionate React frontend developer with a hunger for learning new technologies and a knack for adapting quickly. Always happy to lend a hand and help others in the developer community. Let's build some amazing things together! Feel free to contact me <a href="mailto:matijagudic@outlook.com">here</a>.

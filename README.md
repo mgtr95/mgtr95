@@ -43,5 +43,5 @@ Passionate React frontend developer with a hunger for learning new technologies 
   </a>
       </a>
       <a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png"/>
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
   </a>

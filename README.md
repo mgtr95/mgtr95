@@ -48,3 +48,7 @@ Passionate React frontend developer with a hunger for learning new technologies 
       <a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img  alt="java" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  </a>
+          

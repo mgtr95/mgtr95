@@ -54,4 +54,6 @@ Passionate React frontend developer with a hunger for learning new technologies 
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img  alt="spring" height="50px" style="padding-right:'10px';"src="https://img.icons8.com/color/48/spring-logo.png"/>
   </a>
-          
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img  alt="laravel" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/l/23/laravel.svg"/>
+  </a>

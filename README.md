@@ -43,6 +43,9 @@ Passionate React frontend developer with a hunger for learning new technologies 
       <a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:'10px';"src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png"/>
   </a>
+        <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+      <img  alt="azure" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/a/12/azure.svg"/>
+  </a>
   </a>
       </a>
       <a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noreferrer">
@@ -53,6 +56,9 @@ Passionate React frontend developer with a hunger for learning new technologies 
   </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img  alt="spring" height="50px" style="padding-right:'10px';"src="https://img.icons8.com/color/48/spring-logo.png"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+      <img  alt="intellij" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/i/95/intellij-idea.svg"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
       <img  alt="laravel" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/l/23/laravel.svg"/>

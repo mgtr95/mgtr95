@@ -64,11 +64,11 @@ Passionate React frontend developer with a hunger for learning new technologies 
       <img  alt="laravel" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/l/23/laravel.svg"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="mongodb" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/m/25/mongodb.svg"/>
+      <img  alt="mongodb" height="50px" style="padding-right:'10px';"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img  alt="postgresql" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/p/93/postgresql.svg"/>
   </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="docker" height="50px" style="padding-right:'10px';"src="https://www.cdnlogo.com/logos/d/8/docker.svg"/>
+      <img  alt="docker" height="50px" style="padding-right:'10px';"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
   </a>

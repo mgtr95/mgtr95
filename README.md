@@ -106,12 +106,10 @@ Modern ticketing platform for customer requests, issue reports, and internal tas
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mgtr95&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=mgtr95&theme=tokyonight&hide_border=true"
+  />
 </div>
-
-<br>
-
-<div align="center">
 
 ### 📫 Let's build something together
 

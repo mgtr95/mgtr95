@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Matija%20Gudi%C4%87&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%7C%20Laravel%20%2B%20React&descAlignY=60&descSize=18" width="100%"/>
 
-</br>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=5%2B+years+building+full-stack+web+apps;Laravel+%2B+React+%2B+TypeScript;ERPs%2C+route+planners+%26+HACCP+systems;Owning+projects+end-to-end%2C+infra+included" alt="Typing SVG" />

@@ -95,12 +95,14 @@ Modern ticketing platform for customer requests, issue reports, and internal tas
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mgtr95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgtr95&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mgtr95&theme=tokyonight&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mgtr95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgtr95&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </div>
 
 <br>
